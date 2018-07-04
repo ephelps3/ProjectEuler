@@ -1,0 +1,10 @@
+Problem14:18.172212
+Problem13:0.000102
+Problem12:19.595295
+Problem3:131.940235
+Problem4:0.417578
+Problem5:8.134386
+Problem6:6.4e-05
+Problem7:0.164542
+Problem8:0.007491
+Problem9:0.052694
